@@ -77,6 +77,5 @@ If you're stuck or have a question:
 ---
 
 We’re so glad to have you here. Let’s build something fun, thoughtful, and unexpected together 🌱
-```
 
 ---
