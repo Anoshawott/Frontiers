@@ -1,32 +1,55 @@
+
 # 🚀 Getting Started with Frontiers
 
-Whether you’re here to share a paper or try out an experiment—you’re welcome.
+Whether you’re here to share a paper, join the core research rotation, or try out an experiment—you’re welcome.
 
----
 
-## 🧭 Role 1: Paper Lead
-You're sharing a recent paper that sparked your curiosity.
+## 🧠 Core Team: Rotating Research Leads  
+The core research team runs the monthly research cycle, taking turns in the following roles:
+
+
+### 🧭 **Role: Paper Lead**  
+You’re sharing a recent academic paper that sparked your curiosity and helping us explore whether it’s worth digging deeper.
 
 Start by:
 - Copying [`frontiers_exploration_template.md`](./templates/frontiers_exploration_template.md)
-- Filling in the high-level summary, questions, and ideas for others to explore
+- Filling in a high-level summary, questions, and potential directions
 - Creating a new folder under `/papers/YourPaperTitle/` and adding your exploration
 
-> You don’t need to build anything—just help us *see the opportunity*.
+> Your job is to **pose the right questions** and spark curiosity—not to answer everything!
 
----
 
-## 🧪 Role 2: Experimenter
-You want to build something, test a hypothesis, or answer a question from a paper already in the repo.
+### 🧪 **Role: Experimenter Lead**  
+You want to take the inspiration from the paper and design experiments to test hypotheses, play with ideas, or build prototypes.
 
 Start by:
 - Copying [`experimenter_contribution_template.md`](./templates/experimenter_contribution_template.md)
-- Creating your own folder under `papers/YourPaper/experiments/experimenter_firstname/`
-- Optionally add notebooks, code, or visuals under `screenshots/` or as `.ipynb` files
+- Creating your own folder under `papers/YourPaperTitle/experiments/experimenter_firstname/`
+- Optionally add notebooks, code, visuals, or summaries
 
-> Start small. Tinker for 1–2 hours. Share what you learn!
+> Be creative! You’re here to test what’s possible and share what you learn.
 
----
+
+### 🤝 **Role: Research Associate (Supporting Role)**  
+You’re part of the core team but not in a lead role this month. Your job is to support, question, and offer perspective throughout the cycle.
+
+- Chime in on Teams when leads ask for feedback
+- Comment on GitHub discussions
+- Optionally, contribute smaller experiments or critiques
+
+
+## 🌱 Research Listeners & Passing Contributors  
+Not in the core team? You can still tinker, explore, and learn!
+
+### 🧪 Become a Passing Experimenter  
+Anyone in the broader Frontiers community can contribute their own mini-experiments based on any open research thread.
+
+- Browse open papers in `/papers/`
+- Use [`experimenter_contribution_template.md`](./templates/experimenter_contribution_template.md)
+- Add your work to `papers/YourPaper/experiments/experimenter_yourname/`
+
+> Just curious? No problem. Lurk, fork, or tinker on GitHub at your own pace.
+
 
 ## 🧰 Tools and Tips for Beginners
 
@@ -55,7 +78,6 @@ You **don’t need to be a Git expert** — you can contribute directly from you
 ### 💡 Use Templates
 - See the `/templates` folder for starting points
 
----
 
 ## 🔁 How This All Connects
 
@@ -67,7 +89,6 @@ Check out [`CONTRIBUTING.md`](./CONTRIBUTING.md) for:
 - Creating your first PR
 - Extra resources and support
 
----
 
 ## 📎 Helpful Links
 
@@ -76,6 +97,7 @@ Check out [`CONTRIBUTING.md`](./CONTRIBUTING.md) for:
 - [Pull Requests for First-Timers](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
 - [Using GitHub in the Browser](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)
 
-
-> Need help? Open an Issue and tag us — we’re happy to support you! - this is our way of knowing how we can help :)
+> Need help? Open an Issue and tag us — we’re happy to support you!  
 > [How to Create an Issue?](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)
+
+---
