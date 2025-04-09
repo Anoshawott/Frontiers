@@ -45,7 +45,7 @@ You’re part of the core team but not in a lead role this month. Your job is to
 ---
 
 ## 🌱 Research Listeners & Passing Contributors  
-Not in the core team this month? You can still tinker, explore, and learn!
+Not in the core team? You can still tinker, explore, and learn!
 
 ### 🧪 Become a Passing Experimenter  
 Anyone in the broader Frontiers community can contribute their own mini-experiments based on any open research thread.
