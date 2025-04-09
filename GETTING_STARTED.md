@@ -1,12 +1,15 @@
+---
 
 # 🚀 Getting Started with Frontiers
 
 Whether you’re here to share a paper, join the core research rotation, or try out an experiment—you’re welcome.
 
+---
 
 ## 🧠 Core Team: Rotating Research Leads  
 The core research team runs the monthly research cycle, taking turns in the following roles:
 
+---
 
 ### 🧭 **Role: Paper Lead**  
 You’re sharing a recent academic paper that sparked your curiosity and helping us explore whether it’s worth digging deeper.
@@ -18,6 +21,7 @@ Start by:
 
 > Your job is to **pose the right questions** and spark curiosity—not to answer everything!
 
+---
 
 ### 🧪 **Role: Experimenter Lead**  
 You want to take the inspiration from the paper and design experiments to test hypotheses, play with ideas, or build prototypes.
@@ -29,6 +33,7 @@ Start by:
 
 > Be creative! You’re here to test what’s possible and share what you learn.
 
+---
 
 ### 🤝 **Role: Research Associate (Supporting Role)**  
 You’re part of the core team but not in a lead role this month. Your job is to support, question, and offer perspective throughout the cycle.
@@ -37,9 +42,10 @@ You’re part of the core team but not in a lead role this month. Your job is to
 - Comment on GitHub discussions
 - Optionally, contribute smaller experiments or critiques
 
+---
 
 ## 🌱 Research Listeners & Passing Contributors  
-Not in the core team? You can still tinker, explore, and learn!
+Not in the core team this month? You can still tinker, explore, and learn!
 
 ### 🧪 Become a Passing Experimenter  
 Anyone in the broader Frontiers community can contribute their own mini-experiments based on any open research thread.
@@ -50,6 +56,7 @@ Anyone in the broader Frontiers community can contribute their own mini-experime
 
 > Just curious? No problem. Lurk, fork, or tinker on GitHub at your own pace.
 
+---
 
 ## 🧰 Tools and Tips for Beginners
 
@@ -78,6 +85,7 @@ You **don’t need to be a Git expert** — you can contribute directly from you
 ### 💡 Use Templates
 - See the `/templates` folder for starting points
 
+---
 
 ## 🔁 How This All Connects
 
@@ -89,6 +97,7 @@ Check out [`CONTRIBUTING.md`](./CONTRIBUTING.md) for:
 - Creating your first PR
 - Extra resources and support
 
+---
 
 ## 📎 Helpful Links
 
